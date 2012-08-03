@@ -1,0 +1,9 @@
+[user]
+	name = Alf Eaton
+	email = alf@hubmed.org
+[credential]
+	helper = cache --timeout=3600
+[core]
+	excludesfile = /home/alf/.gitignore_global
+[cola]
+	fontdiff = Ubuntu Mono,12,-1,5,50,0,0,0,0,0
