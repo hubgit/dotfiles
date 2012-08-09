@@ -7,3 +7,5 @@
 	excludesfile = ~/.gitignore_global
 [cola]
 	fontdiff = Ubuntu Mono,12,-1,5,50,0,0,0,0,0
+[color]
+	ui = true
