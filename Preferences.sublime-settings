@@ -1,9 +1,9 @@
-// Settings in here override those in "Default/Preferences.sublime-settings", and
-// are overridden in turn by file type specific settings.
 {
     "trim_trailing_white_space_on_save": true,
     "save_on_focus_lost": true,
     "hot_exit": false,
     "remember_open_fles": false,
-    "create_window_at_startup": false
+    "create_window_at_startup": false,
+    "default_line_ending": "unix",
+    "open_files_in_new_window": false
 }
