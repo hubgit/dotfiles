@@ -7,6 +7,8 @@ export PATH=/usr/local/bin:/usr/local/sbin:$PATH
 
 export EDITOR=nano
 
+export PYTHONPATH=/usr/local/lib/python2.7/site-packages:$PYTHONPATH
+
 # don't put duplicate lines or lines starting with space in the history.
 HISTCONTROL=ignoreboth
 
