@@ -1,6 +1,0 @@
-[
-	// https://gist.github.com/1988097
-	{ "keys": ["super+v"], "command": "paste_and_indent" },
-	{ "keys": ["super+shift+v"], "command": "paste" },
-	{ "keys": ["super+r"], "command": "show_panel", "args": {"panel": "replace"} }
-]
